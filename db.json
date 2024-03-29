@@ -2,42 +2,42 @@
   "events": [
     {
       "id": "-i2bzt8",
-      "eventName": "dad99",
+      "eventName": "event1",
       "startDate": "2024-03-16",
       "endDate": "2024-03-16"
     },
     {
       "id": "FlYDN9K",
-      "eventName": "u9u",
+      "eventName": "event2",
       "startDate": "2024-03-23",
       "endDate": "2024-03-30"
     },
     {
-      "eventName": "123",
+      "eventName": "event3",
       "startDate": "2023-12-20",
       "endDate": "2023-12-22",
       "id": "1BKT3jx"
     },
     {
-      "eventName": "sada",
+      "eventName": "event4",
       "startDate": "2023-09-08",
       "endDate": "2023-10-07",
       "id": "I-3SFg5"
     },
     {
-      "eventName": "dad",
+      "eventName": "event5",
       "startDate": "2023-07-14",
       "endDate": "2023-08-18",
       "id": "v75RvS8"
     },
     {
-      "eventName": "das1",
+      "eventName": "event6",
       "startDate": "2023-07-15",
       "endDate": "2023-07-23",
       "id": "fWX8fHW"
     },
     {
-      "eventName": "113",
+      "eventName": "event7",
       "startDate": "2024-03-22",
       "endDate": "2024-03-24",
       "id": "JRPCDop"
